@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SAVE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onboarding_footer">Zur efolgreichen Eindämmung des Virus müssen die Ansteckungswege nachvollziehbar werden.</string>
+    <string name="onboarding_footer2">Diese App zeichnet Begegnungen mit anderen Nutzern der App passiv und anonym auf. Die Daten bleiben dabei auf Ihrem Handy.</string>
+    <string name="onboarding_footer3">Sobald eine Person positiv getestet wird, kann sie diese Information anonym bereitstellen.</string>
+    <string name="onboarding_title_2">SYSTEM FÜR ANONYME\nVIRUS EINDÄMMUNG</string>
+    <string name="onboarding_title">SAVE</string>
+</resources>
